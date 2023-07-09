@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  max-width: 70ch;
+  padding: 3rem 1rem;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25rem;
+  font-family: sans-serif;
+}
+
+
